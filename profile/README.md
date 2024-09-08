@@ -7,4 +7,4 @@
 2. IT maailmas tutvused (peas mõlguvad mõtted erinevate projektide kävitamisel)
 3. Organisatsiooni siseselt kõrgemale pulgale tõusmine + palganumber
 
-[def]: C:\Users\37253\Downloads\Andre-Kalda-1.jpg
+[def]: https://github.com/TLUHK-RIF24-Andre/.github/blob/main/Andre-Kalda-1.jpg
